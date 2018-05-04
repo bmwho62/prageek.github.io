@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mymakecents.mob.customer.makecents",
+    "sha256_cert_fingerprints":
+    ["88:10:BE:D2:1A:3D:15:B7:F1:7D:18:0E:78:79:45:78:C9:BF:21:B9:D8:0E:FC:7C:8B:83:AF:B4:26:EE:FE:FA"]
+  }
+}]
